@@ -1,0 +1,27 @@
+.wrapper{
+  font-family: 'Roboto', sans-serif;
+}
+
+.main-title{
+  display: flex;
+  padding-right: 40px;
+  padding-left: 40px;
+  justify-content: flex-start;
+}
+.nav{
+  display: grid;
+  gap: 30px;
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
+.nav-title-bold{
+  font-weight: bold;
+}
+
+.section1{
+  padding-top: 40px;
+}
+.section2{
+  padding-top: 500px;
+  padding-bottom: 300px;
+}
