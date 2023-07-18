@@ -10,4 +10,4 @@ https://www.figma.com/file/AnO4NnkZ8maSQ69kHr3h5O/SSN?type=design&t=RgM5PzzPaXFv
 ### Посмотреть сайт можно по ссылке ↓
 
 [«Сам Проект»]
-#
+https://yanzaharov.github.io/ConfID/
