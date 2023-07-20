@@ -4,7 +4,6 @@
 }
 .main{
   font-size: 12px;
-
 }
 
 .main-title{
@@ -12,6 +11,7 @@
   padding-right: 40px;
   padding-left: 40px;
   justify-content: flex-start;
+  justify-content: center;
 }
 .nav{
   display: grid;
@@ -43,12 +43,39 @@
 .section1__about{
   display: flex;
 }
-.main__top-list{
+.main__top-list {
   display: flex;
+  gap: 82px;
+  padding-left: 40px;
+  padding-top: 30px;
+  padding-bottom: 40px;
 }
-.achievements-2022{
+.achievements-2022 {
   display: flex;
+  align-items: center;
+  justify-content: space-evenly;
 }
 .achievements-2019{
   display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+}
+.section1__about-list{
+  padding-top: 20px;
+  padding-left: 40px;
+}
+.section1__science{
+  padding-top: 20px;
+}
+.primer{
+  padding-left: 40px;
+  padding-bottom: 10px;
+}
+.main__bottom-title{
+  padding-top: 20px;
+}
+.year{
+  padding-top: 20px;
+  padding-bottom: 10px;
+  padding-left: 40px;
 }
