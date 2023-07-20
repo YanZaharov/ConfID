@@ -13,6 +13,7 @@
   padding-left: 40px;
   justify-content: flex-start;
   justify-content: center;
+
 }
 .nav{
   display: grid;
@@ -79,4 +80,51 @@
   padding-top: 20px;
   padding-bottom: 10px;
   padding-left: 40px;
+}
+.main__top-text{
+  padding-top: 14px;
+}
+.name{
+  font-weight: 500;
+  padding-top: 20px;
+  padding-bottom: 2px;
+}
+.email{
+  opacity: 80%;
+}
+.location{
+  padding-top: 15px;
+  padding-bottom: 2px;
+}
+.mesto-raboti{
+  padding-top: 18px;
+  padding-bottom: 2px;
+}
+.zvanie{
+  padding-bottom: 2px;
+}
+.spec-vak{
+  padding-bottom: 10px;
+}
+.section_title{
+  display: flex;
+  justify-content: center;
+  padding-left: 40px;
+  font-weight: 500;
+}
+.section2_title{
+  padding-top: 20px;
+}
+.edit{
+  background-color: #40BA9B;
+  border-radius: 20px;
+  color: #ffffff;
+  padding-left: 30px;
+  padding-right: 30px;
+  padding-top: 13px;
+  padding-bottom: 13px;
+}
+.main__top-img{
+  display: grid;
+  justify-items: center;
 }
