@@ -1,6 +1,7 @@
 .wrapper{
   font-family: 'Roboto', sans-serif;
   background-color: #EEEEEE;
+  min-width: 1280px;
 }
 .main{
   font-size: 12px;
