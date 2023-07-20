@@ -1,5 +1,10 @@
 .wrapper{
   font-family: 'Roboto', sans-serif;
+  background-color: #EEEEEE;
+}
+.main{
+  font-size: 12px;
+
 }
 
 .main-title{
@@ -17,11 +22,33 @@
 .nav-title-bold{
   font-weight: bold;
 }
-
 .section1{
-  padding-top: 40px;
+  margin-top: 20px;
+  margin-left: 43px;
+  background-repeat: no-repeat;
+  width: 1080px;
+  height: 543px;
 }
 .section2{
-  padding-top: 500px;
-  padding-bottom: 300px;
+  margin-top: 10px;
+  margin-left: 43px;
+  background-repeat: no-repeat;
+  width: 1080px;
+  height: 582px;
+  margin-bottom: 20px;
+}
+.user-about{
+  max-width: 200px;
+} 
+.section1__about{
+  display: flex;
+}
+.main__top-list{
+  display: flex;
+}
+.achievements-2022{
+  display: flex;
+}
+.achievements-2019{
+  display: flex;
 }
