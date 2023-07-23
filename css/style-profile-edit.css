@@ -17,9 +17,10 @@ p {
   width: 100px;
   height: 100px;
 }
-.right-info-conf{
-  display: grid;
-  align-items: center;
-  align-content: center;
-  justify-items: center;
+.req-info{
+  font-weight: 500;
+}
+.avatar-redact{
+  max-width: 200px;
+  max-height: 200px;
 }
