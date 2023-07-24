@@ -23,3 +23,18 @@ p {
   align-content: center;
   justify-items: center;
 }
+.avatar-img{
+  max-width: 200px;
+  max-height: 200px;
+}
+.sert-h{
+  max-width: 220px;
+  max-height: 173px;
+}
+.sert-v{
+  max-width: 173px;
+  max-height: 220px;
+}
+.footer{
+  font-size: 14px;
+}
