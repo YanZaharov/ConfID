@@ -41,3 +41,8 @@ p {
 .left-navbar-col{
   max-width: 133px;
 }
+.sert-align{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
