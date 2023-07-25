@@ -38,3 +38,6 @@ p {
 .footer{
   font-size: 14px;
 }
+.left-navbar-col{
+  max-width: 133px;
+}
