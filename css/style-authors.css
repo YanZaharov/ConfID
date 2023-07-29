@@ -49,3 +49,8 @@ a:hover{
 .left-navbar-col{
   max-width: 133px;
 }
+.authors_ava_info{
+  display: grid;
+  justify-items: center;
+  justify-content: center;
+}
