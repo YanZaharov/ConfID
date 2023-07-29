@@ -1,0 +1,12 @@
+.footer__column-left{
+  width: 65%;
+  padding-right: 0;
+}
+.footer__column-middle{
+  width: 0%;
+  padding: 0;
+}
+.footer__column-right{
+  width: 35%;
+  padding-left: 0;
+} 
